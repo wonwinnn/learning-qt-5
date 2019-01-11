@@ -1,5 +1,5 @@
 ### Description   
-* Snake game  
+* Snake game.  
 
 ### From  
 * [Qt 学习之路 2（31）：贪吃蛇游戏（1）](https://www.devbean.net/2012/12/qt-study-road-2-snake-1/)  
