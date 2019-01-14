@@ -3,7 +3,6 @@
 <p align="center">
     <img src="https://github.com/H-Lyric/Learning-Qt-5/blob/master/Snake/Snake.PNG" width="300" height="300">
     <p align="center">
-        <em>Snake</em>
     </p>
 </p>
 
