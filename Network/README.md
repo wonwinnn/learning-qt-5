@@ -1,6 +1,6 @@
 ### Description
 A program that fetches weather information from internet.  
-![pic](https://github.com/H-Lyric/Learning-Qt-5/blob/master/Network/weather.PNG)
+![pic](weather.PNG)
 
 ### From  
 * [Qt 学习之路 2（65）：访问网络（1）](https://www.devbean.net/2013/10/qt-study-road-2-access-network-1/)
