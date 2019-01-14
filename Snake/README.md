@@ -1,6 +1,11 @@
 ### Description   
 * Snake game.  
-![Snake](Snake.PNG)  
+<p align="center">
+    <img src="https://github.com/H-Lyric/Learning-Qt-5/blob/master/Snake/Snake.PNG" width="300" height="300">
+    <p align="center">
+        <em>Snake</em>
+    </p>
+</p>
 
 ### From  
 * [Qt 学习之路 2（31）：贪吃蛇游戏（1）](https://www.devbean.net/2012/12/qt-study-road-2-snake-1/)  
