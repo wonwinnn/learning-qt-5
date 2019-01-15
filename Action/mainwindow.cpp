@@ -1,12 +1,3 @@
-// !!! Qt 5
-// ========== mainwindow.cpp
-#include <QAction>
-#include <QMenuBar>
-#include <QMessageBox>
-#include <QStatusBar>
-#include <QToolBar>
-#include <QDebug>
-
 #include "mainwindow.h"
 
 MainWindow::MainWindow(QWidget *parent) :
