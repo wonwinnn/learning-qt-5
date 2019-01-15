@@ -1,9 +1,13 @@
-// !!! Qt 5
-// ========== mainwindow.h
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
 
 #include <QMainWindow>
+#include <QAction>
+#include <QMenuBar>
+#include <QMessageBox>
+#include <QStatusBar>
+#include <QToolBar>
+#include <QDebug>
 
 class MainWindow : public QMainWindow
 {
