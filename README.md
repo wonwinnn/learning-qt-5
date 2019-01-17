@@ -7,6 +7,7 @@ Examples from [Qt 学习之路 2](https://www.devbean.net/category/qt-study-road
 
 ## Contents
 -[Qt 学习之路 2（4）：信号槽](Connect)  
+-[Qt 学习之路 2（5）：自定义信号槽](News)  
 -[Qt 学习之路 2（8）：添加动作](Action)  
 -[Qt 学习之路 2（31）-（34）：贪吃蛇游戏](Snake)  
 -[Qt 学习之路 2（45）：模型](FileM)  
