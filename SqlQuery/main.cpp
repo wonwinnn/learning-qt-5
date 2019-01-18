@@ -5,7 +5,6 @@
 #include <QSqlError>
 #include <QDebug>
 
-
 bool connect(const QString &dbName);
 bool isTableExist(QSqlQuery &q, QString &tbName);
 
