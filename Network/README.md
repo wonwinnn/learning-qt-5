@@ -1,5 +1,5 @@
 ### Description
-A program that fetches weather information from internet.  
+* A program that fetches weather information from internet.  
 ![pic](weather.PNG)
 
 ### From  
