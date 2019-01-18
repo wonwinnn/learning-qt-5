@@ -11,10 +11,11 @@ bool isTableExist(QSqlQuery &q, QString &tbName);
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
-
+    
+    QString dbName = "demo";
     QString tbName = "student";
 
-    if (connect("demo.db")) {
+    if (connect(QString("%1.db").arg(dbName))) {
         QSqlQuery query;
         if(!isTableExist(query, tbName)){
             if (!query.exec(QString("CREATE TABLE %1 ("
