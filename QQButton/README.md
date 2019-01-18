@@ -1,5 +1,5 @@
 ### Description
-A simple example to show how to use button with QML.    
+* A simple example to show how to use button with QML.    
 Before click on "Start":  
 ![wait](wait.PNG)  
 After clicked:  
