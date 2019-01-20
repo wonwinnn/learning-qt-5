@@ -8,7 +8,6 @@
 #include <QAbstractItemView>
 #include <QHeaderView>
 
-
 bool connect(const QString &dbName);
 
 enum ColumnIndex
