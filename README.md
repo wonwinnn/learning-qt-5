@@ -10,6 +10,7 @@ Examples from [Qt 学习之路 2](https://www.devbean.net/category/qt-study-road
 -[Qt 学习之路 2（5）：自定义信号槽](News)  
 -[Qt 学习之路 2（8）：添加动作](Action)  
 -[Qt 学习之路 2（31）-（34）：贪吃蛇游戏](Snake)  
+-[Qt 学习之路 2（42）：QListWidget、QTreeWidget 和 QTableWidget](ModelView)  
 -[Qt 学习之路 2（45）：模型](FileM)  
 -[Qt 学习之路 2（55）：数据库操作](SqlQuery)  
 -[Qt 学习之路 2（56）：使用模型操作数据库](SqlTableM)  
