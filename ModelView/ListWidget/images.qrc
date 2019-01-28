@@ -10,5 +10,4 @@
         <file>Traveler.png</file>
         <file>IE.png</file>
     </qresource>
-    <qresource prefix="/"/>
 </RCC>
