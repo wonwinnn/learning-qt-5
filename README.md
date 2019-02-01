@@ -16,6 +16,7 @@ Examples from [Qt 学习之路 2](https://www.devbean.net/category/qt-study-road
 -[Qt 学习之路 2（56）：使用模型操作数据库](SqlTableM)  
 -[Qt 学习之路 2（57）：可视化显示数据库数据](SqlModelView)  
 -[Qt 学习之路 2（58）：编辑数据库外键](SqlRelationalMV)  
+-[Qt 学习之路 2（59）：使用流处理 XML](XmlRead)  
 -[Qt 学习之路 2（64）：使用 QJsonDocument 处理 JSON](JsonRead)  
 -[Qt 学习之路 2（65）-（67）：访问网络](Network)  
 -[Qt 学习之路 2（70）：进程间通信](ShareMemory)  
