@@ -18,6 +18,7 @@ Examples from [Qt 学习之路 2](https://www.devbean.net/category/qt-study-road
 -[Qt 学习之路 2（58）：编辑数据库外键](SqlRelationalMV)  
 -[Qt 学习之路 2（59）：使用流处理 XML](XmlRead)  
 -[Qt 学习之路 2（60）：使用 DOM 处理 XML](XmlDom)  
+-[Qt 学习之路 2（62）：保存 XML](XmlWrite)  
 -[Qt 学习之路 2（64）：使用 QJsonDocument 处理 JSON](JsonRead)  
 -[Qt 学习之路 2（65）-（67）：访问网络](Network)  
 -[Qt 学习之路 2（70）：进程间通信](ShareMemory)  
