@@ -13,5 +13,3 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp
-
-HEADERS  +=
