@@ -14,6 +14,7 @@ Examples from [Qt 学习之路 2](https://www.devbean.net/category/qt-study-road
 -[Qt 学习之路 2（42）：QListWidget、QTreeWidget 和 QTableWidget](ModelView)  
 -[Qt 学习之路 2（44）：QFileSystemModel](FileSystemM)  
 -[Qt 学习之路 2（45）：模型](FileM)  
+-[Qt 学习之路 2（46）：视图和委托](StringListM)  
 -[Qt 学习之路 2（47）：视图选择](ItemSelectionM)  
 -[Qt 学习之路 2（48）：QSortFilterProxyModel](SortFilter)  
 -[Qt 学习之路 2（49）：自定义只读模型](CurrencyM)  
