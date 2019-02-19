@@ -19,6 +19,7 @@ Examples from [Qt 学习之路 2](https://www.devbean.net/category/qt-study-road
 -[Qt 学习之路 2（48）：QSortFilterProxyModel](SortFilter)  
 -[Qt 学习之路 2（49）：自定义只读模型](CurrencyM)  
 -[Qt 学习之路 2（52）：使用拖放](DnD)  
+-[Qt 学习之路 2（53）：自定义拖放数据](TableDnD)  
 -[Qt 学习之路 2（55）：数据库操作](SqlQuery)  
 -[Qt 学习之路 2（56）：使用模型操作数据库](SqlTableM)  
 -[Qt 学习之路 2（57）：可视化显示数据库数据](SqlModelView)  
