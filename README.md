@@ -2,7 +2,7 @@
 Examples from [Qt 学习之路 2](https://www.devbean.net/category/qt-study-road-2/)
 
 运行环境：
-* ubuntu 16.04
+* Ubuntu 16.04
 * Qt 5.5.1
 
 ## Contents
